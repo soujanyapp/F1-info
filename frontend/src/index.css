@@ -1,3 +1,21 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "font1";
+  src: url("/fonts/Lausanne-300.woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "font2";
+  src: url("/fonts/Lausanne-500.woff2");
+  font-weight: 500;
+}
+
+@font-face {
+    font-family: "font3";
+    src: url("/fonts/GeistPixel.ttf");
+    font-weight: 900;
+}
+
 
